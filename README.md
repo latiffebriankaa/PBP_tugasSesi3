@@ -10,12 +10,17 @@ C (60–69)
 D (50–59)
 E (< 50)
 
+untuk menjalankan program ini bisa langsung di run di index.html nya
+--- 
 ## Tugas 2 – Perulangan:
 
 Buat program untuk mencetak bilangan ganjil dari 1 sampai 20 menggunakan:
 Perulangan FOR
 Perulangan WHILE
 
+untuk menjalankan program ini bisa langsung buka di terminal dan ketik node script.js
+dan akan langsung menampilan outputnya
+--- 
 ## Tugas 3 – Array:
 
 Buat program dengan array berisi nama 5 mahasiswa.
@@ -24,6 +29,9 @@ Tambahkan 1 nama baru ke array menggunakan push()
 Hapus nama pertama menggunakan shift()
 Tampilkan kembali isi array setelah dimodifikasi
 
+untuk menjalankan program ini bisa langsung buka di terminal dan ketik node script.js
+dan akan langsung menampilkan outputnya yg belum di modifikasi dan sudah di modifikasi
+---
 ## Dibuat oleh:
 
 - latip
